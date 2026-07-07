@@ -1,4 +1,4 @@
-# O Blueprint do Estrategista: Maquiavel e a Engenharia do Poder
+# O Estrategista: Maquiavel e a Engenharia do Poder
 
 ## Contexto do Projeto
 
