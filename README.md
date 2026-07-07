@@ -1,6 +1,3 @@
-# miniguia-estudos-notebooklm/maquiavel
-Repositório para o projeto DIO em NotebookLM 
-
 # Maquiavel no século XXI: poder, imagem, estratégia e ética nas relações atuais
 
 ## 1. Contexto do Projeto
