@@ -1,55 +1,58 @@
-# Maquiavel no século XXI: poder, imagem, estratégia e ética nas relações atuais
+# O Blueprint do Estrategista: Maquiavel e a Engenharia do Poder
 
-## 1. Contexto do Projeto
+## Contexto do Projeto
 
-Este projeto tem como objetivo estudar os principais ensinamentos de Nicolau Maquiavel, especialmente a partir da obra *O Príncipe*, e analisar como suas ideias continuam presentes na sociedade atual.
+Este projeto temático foi desenvolvido com o apoio do NotebookLM para estudar Nicolau Maquiavel e compreender como seus ensinamentos continuam presentes nas estruturas de poder, liderança, política e organização social até os dias atuais.
 
-O tema foi escolhido por sua relevância histórica, política e social. Mesmo tendo sido escrito no século XVI, o pensamento de Maquiavel ainda aparece em discussões sobre liderança, poder, imagem pública, tomada de decisão, política, empresas e relações sociais.
+O tema escolhido foi inspirado na obra *O Príncipe* e em interpretações modernas sobre o pensamento maquiaveliano. O material final recebeu o título **"O Blueprint do Estrategista: A verdade por trás de Nicolau Maquiavel e a Engenharia do Poder"**.
 
-## 2. Objetivos de Estudo
+A proposta central é ir além da visão popular de que “maquiavélico” significa apenas falso, cruel ou sem escrúpulos. O projeto busca mostrar Maquiavel como um observador realista da política, um analista da natureza humana e um dos fundadores da ciência política moderna.
 
-- Compreender os principais conceitos presentes na obra *O Príncipe*.
-- Identificar como Maquiavel separa moralidade pessoal e necessidade política.
-- Analisar conceitos como virtù, fortuna, poder, estratégia, aparência e medo.
-- Relacionar os ensinamentos de Maquiavel com situações contemporâneas.
+## Objetivos de Estudo
+
+- Compreender o contexto histórico em que Maquiavel escreveu suas principais obras.
+- Analisar os conceitos de virtù, fortuna, poder, Estado, guerra e necessidade política.
+- Diferenciar a imagem popular de Maquiavel da interpretação acadêmica de seu pensamento.
+- Relacionar os ensinamentos de Maquiavel com questões contemporâneas de liderança, política e sociedade.
 - Criar um miniguia de estudo com resumos, glossário e prompts reutilizáveis.
 
-## 3. Fontes Utilizadas
+## Fontes Utilizadas
 
-As fontes abaixo foram selecionadas por serem abertas e relevantes para o estudo:
+As fontes utilizadas foram selecionadas por serem abertas, confiáveis e relevantes para o tema:
 
-1. *O Príncipe* — Nicolau Maquiavel — Biblioteca do Senado Federal.
-2. *O Príncipe* — versão Ebooks Brasil.
-3. Stanford Encyclopedia of Philosophy — Machiavelli.
-4. Internet Encyclopedia of Philosophy — Machiavelli.
-5. Enciclopédia Itaú Cultural — Obras de Maquiavel.
+1. *O Príncipe* — Nicolau Maquiavel.
+2. Stanford Encyclopedia of Philosophy — Machiavelli.
+3. Internet Encyclopedia of Philosophy — Machiavelli.
+4. Artigos e materiais abertos sobre ciência política moderna.
+5. Materiais de apoio sobre Renascimento, Florença e pensamento republicano.
 
-## 4. Engenharia de Prompts
+## Produto Final
 
-Durante o projeto, foram testados diferentes prompts no NotebookLM para extrair resumos, conceitos, comparações e aplicações contemporâneas do pensamento de Maquiavel.
+O produto final do projeto é o PDF gerado com apoio do NotebookLM:
 
-Os prompts foram avaliados conforme:
-- Clareza da resposta;
-- Uso correto das fontes;
-- Capacidade de comparação;
-- Profundidade da análise;
-- Existência de referências na resposta.
+📄 `notebooklm/The_Machiavelli_Blueprint.pdf`
 
-## 5. Cicatrizes do Processo
+O material apresenta Maquiavel como “o cientista da política” e “observador da realidade empírica”, explicando sua relevância para o entendimento da arquitetura do poder.
 
-Nem todos os prompts geraram boas respostas inicialmente. Alguns retornaram respostas muito genéricas, outros não conectaram corretamente Maquiavel com exemplos atuais.
+## Engenharia de Prompts
 
-Por isso, os prompts foram ajustados para pedir:
-- Respostas com base nas fontes enviadas;
-- Citações ou referências aos trechos usados;
-- Comparações com situações contemporâneas;
-- Explicações em linguagem simples;
-- Separação entre resumo, análise e exemplos.
+Durante o desenvolvimento do projeto, foram testados prompts para:
 
-## 6. Miniguia de Estudo
+- resumir o pensamento de Maquiavel;
+- extrair conceitos centrais;
+- relacionar Maquiavel com o mundo atual;
+- transformar o conteúdo em roteiro visual;
+- criar glossário e miniguia de estudo;
+- corrigir interpretações superficiais sobre o termo “maquiavélico”.
 
-O resultado final do projeto está organizado em três partes:
+## Cicatrizes e Aprendizados
 
-- Resumo estruturado do tema;
-- Glossário dos principais conceitos;
-- Prompts reutilizáveis para revisão e aprofundamento.
+O processo exigiu ajustes nos prompts, pois perguntas muito abertas geravam respostas genéricas. Para melhorar os resultados, foi necessário pedir respostas com estrutura, contexto histórico, comparação entre conceitos e aplicação contemporânea.
+
+## Organização do Repositório
+
+- `notebooklm/`: contém o PDF final gerado no NotebookLM.
+- `fontes/`: reúne as referências utilizadas.
+- `prompts/`: documenta os prompts testados, versões melhoradas e dificuldades encontradas.
+- `miniguia/`: apresenta o resumo estruturado, glossário e prompts reutilizáveis.
+- `assets/`: imagens de apoio, como capa do projeto.
